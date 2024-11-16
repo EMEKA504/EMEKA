@@ -1,0 +1,245 @@
+.ami{
+    text-align: center;
+}
+.anu{
+    text-align: center; color:white; font-size: 25px;
+}
+.alili:link, a:visited {
+    background-color: purple;
+    color: white;
+    padding: 20px 70px;
+    text-align: center;
+    border: color(purple);
+    text-decoration:dashed;
+    border-radius: 15px;
+  }
+  .alili:hover, a:active {
+    background-color:purple;
+    text-decoration: wavy;
+  }
+  .contain img{
+    width: 50px;
+    height: 50px;
+    padding: -3px;
+    margin-right: 1295px;
+    background-size: 5px;
+    background-color:transparent;
+   } 
+   .alu{
+    color: white;
+    font-size: 23px;
+   }
+   .olu{
+    color: white;
+    font-size: 22px;
+   }
+   .jacob:link,a:visited{
+    text-decoration: underline;
+    font-style: italic;
+    color: aqua;
+   }
+   .box1{
+    flex: 1;
+    width: 500px;
+    height: 500px;
+    background-color: transparent;
+  }
+  .box2{
+    flex: 1;
+    width: 500px;
+    height: 500px;
+    background-color: transparent;
+  }
+  .container7{
+    display: flex;
+  }
+  .hapi{
+    color:white;
+    font-size: 20px;
+  }
+  .manager{
+    color:white;
+    list-style-type: none;
+    display:block;
+  }
+  .amina{
+    text-decoration: underline;
+  }
+  .club:link, a:visited {
+    background-color: purple;
+    color: white;
+    padding: 20px 70px;
+    text-align: center;
+    border: color(purple);
+    border-radius: 20px;
+    text-decoration:dashed;
+  }
+  .club:hover {
+    background-color:purple;
+    text-decoration: wavy;
+  }
+  .maga{
+    color: white;
+    font-size: 27px;
+  }
+  .manger{
+  }
+  .amodu{
+  float: left; 
+  width: 500px; 
+  background-color: transparent;
+  }
+  .log1{
+    flex: 1;
+    width: 500px;
+    height: 400px;
+    background-color: transparent;
+  }
+  .log2{
+    flex: 1;
+    width: 500px;
+    height: 400px;
+    background-color: transparent;
+  }
+  .containerq{
+    display: flex;
+  }
+  .madu:link, a:visited {
+    background-color: purple;
+    color: white;
+    padding: 20px 50px;
+    text-align: center;
+    border-radius: 20px;
+    margin-left: 50px;
+    border: color(purple);
+  }
+  .madu:hover, a:active {
+    background-color:purple;
+  }
+  .lop1{
+    flex: 1;
+    width: 500px;
+    height: 400px;
+    background-color: transparent;
+  }
+  .lop2{
+    flex: 1;
+    width: 500px;
+    height: 400px;
+    background-color: transparent;
+  }
+  .containerp{
+    display: flex;
+  }
+  .mop{
+    text-align: left;
+    margin-left: 50px;
+  }
+  .akidi{
+    text-align: left;
+  }
+.lop4{
+  flex: 1;
+  width: 500px;
+  height: 400px;
+  background-color: transparent;
+  text-align: right;
+}
+.lop3{
+  flex: 1;
+  width: 500px;
+  height: 400px;
+  background-color: transparent;
+}
+.containerz{
+  display: flex;
+}
+.atlas{background-color: purple;
+  padding: 20px 50px;
+  border-radius: 20px;
+  color: white;
+  text-align: left;
+  margin-left: 50px;
+}
+.ari{
+  text-align: left;
+}
+.container0{
+  display: flex;
+}
+.lass1{
+  width: 500px;
+  height: 400px;
+  flex: 1;
+  background-color: transparent;
+}
+.lass2{
+  flex: 1;
+  width: 500px;
+  height: 400px;
+  background-color: transparent;
+}
+.fname{
+  width: 50%;
+  height: 35px;
+  border-radius: 5px;
+}
+.email{
+  width: 50%;
+  height: 35px;
+  border-radius: 5px;
+}
+.message{
+  width: 50%;
+  height: 150px;
+  border-radius: 5px;
+}
+.naz{
+  display: flex;
+  margin-left: 25%;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 14px;
+}
+.naza{
+background-color: purple;
+padding: 20px 50px;
+margin-left: 38%;
+border-radius: 50px;
+}
+.container00{
+  display: flex;
+}
+.ma1{
+  flex: 2;
+  background-color: blue;
+  width: 500px;
+  height: 400px;
+
+}
+.ma2{
+  flex: 1;
+  background-color: brown;
+  width: 500px;
+  height: 400px;
+}
+.containerL{
+  max-width: 100%;
+  display: flex;
+}
+.onovo{
+  flex: 1;
+  width: 100%;
+  height: 30%;
+  
+
+}
+.onovo1{
+  flex: 1;
+width: 100%;
+height: 30%;
+text-align: left;
+}
+.lasu:hover{
+  border-bottom-style: double;
+}
